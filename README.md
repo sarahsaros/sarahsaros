@@ -2,12 +2,13 @@
 
 <h3>About Me</h3>
 <h4>currently learning</h4>
-  <ul>HTML</ul>
-  <ul>CSS</ul>
-  <ul>Javascript</ul>
-  <ul>VisualBasic</ul>
- <ul> FreePascal</ul>
-
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Javascript</li>
+  <li>VisualBasic</li>
+  <li>FreePascal</li>
+</ul>
 
 <!--
 -->
